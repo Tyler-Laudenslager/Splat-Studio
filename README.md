@@ -3,6 +3,8 @@ Web Based Art Studio For Primary School Kids
 
 All Rights Reserved. Copyright 2022 Splat Studio.
 
+Free To Use Forever (with limited functionality).
+
 Under NO Circumstances will advertising be allowed
 on the site.
 
