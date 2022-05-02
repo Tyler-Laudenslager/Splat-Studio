@@ -8,9 +8,9 @@ on the site.
 
 Primary Stakeholders:
 
-Anna Gill
-Tyler Laudenslager
-Tyler Nazzaro
+#Anna Gill
+#Tyler Laudenslager
+#Tyler Nazzaro
 
 #Website -> www.splatart.studio
 
