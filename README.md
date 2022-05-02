@@ -1,7 +1,7 @@
 # Splat-Studio
 Web Based Art Studio For Primary School Kids
 
-All Rights Reserved. Copyright 2022 Splat Studio.
+All Rights Reserved. © 2022 Symonix.
 
 Free To Use Forever (with limited functionality).
 
