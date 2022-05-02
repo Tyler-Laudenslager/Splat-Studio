@@ -7,3 +7,5 @@ Under NO Circumstances will advertising be allowed
 on the site.
 
 #Website -> www.splatart.studio
+
+The answer is NO. Account Creation is Locked.
