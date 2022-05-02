@@ -16,6 +16,6 @@ on the site.
 
 ### Tyler Nazzaro
 
-## Website URL -> www.splatart.studio
+## Website URL -> http://www.splatart.studio
 
 The answer is NO. Account Creation is Locked.
